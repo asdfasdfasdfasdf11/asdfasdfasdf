@@ -4,7 +4,8 @@ import * as Wrld from 'wrld.js';
 import './App.css';
 
 const wrldApiKey = '682113b50aa4ddb55c1d9d81175bf6f5';
-const abertay = [56.46335, -2.97490];
+//const abertay = [56.46335, -2.97490];
+const abertay = [0, 0];
 
 class App extends Component {
 
